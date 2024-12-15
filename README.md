@@ -116,7 +116,8 @@ Snow flake schema ❄️
 
 
 # Overview of PowerBI dashboard :
-![image](<img width="608" alt="Screenshot 2024-12-15 155638" src="https://github.com/user-attachments/assets/99546523-1e25-4218-8cc3-f4460dfbc4bf" />)
+![image](<img width="608" alt="Screenshot 2024-12-15 155638" src="https://github.com/user-attachments/assets/8c9a6660-2524-42ef-a0d7-bf67407b53dc" />)
+
 
 
 
