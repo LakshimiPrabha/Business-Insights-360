@@ -71,12 +71,6 @@ Other Excel tables
 ![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/68356958-d5ba-4143-bdc5-f9b18f316184)
 
 
-## Segment
-
-## division 
-
-
-
 # Data Modelling 
 
 Snow flake schema ❄️ 
@@ -113,31 +107,3 @@ Snow flake schema ❄️
 9. Fiscal Year : A fiscal year is a full year that a company uses to manage its money and keep track of its finances.
 
 10. AtliQ Hardware Fiscal Year :      SEPTEMBER - AUGUST
-
-
-# Overview of PowerBI dashboard :
-![image](<img width="608" alt="Screenshot 2024-12-15 155638" src="https://github.com/user-attachments/assets/8c9a6660-2524-42ef-a0d7-bf67407b53dc" />)
-
-
-
-
-
-### Finance view
-
-<img width="781" alt="Finance" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/8866caae-efec-439b-97bc-6aac6c90918f">
-
-
-### Sales view
-<img width="781" alt="Sales" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/e76143bb-446f-4e22-8572-9ac460b89a00">
-
-
-### Marketing View
-<img width="777" alt="Marketing" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/f01014ab-b36d-458e-b6f3-8855a8744bc8">
-
-
-### Supply Chain view
-<img width="781" alt="Supply Chain" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/dbd4d6ae-6217-48ed-bc5a-777746876ade">
-
-
-### Executive view
-<img width="782" alt="Executive View" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/844e3bb6-e91c-4ca8-acd2-59694452b78e">
